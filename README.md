@@ -10,3 +10,5 @@ GA Section 2 - Complete the ‘Traffic Light' Javascript exercise:
    - Step 2: Write code to have the ‘Go’ light illuminate green.
    - Hint: Look at lines 1-7 as a guide.
  - Save your Codepen URL
+
+Hosted on https://gaebar.github.io/traffic-light-JS
